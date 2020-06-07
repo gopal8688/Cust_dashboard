@@ -1,0 +1,8 @@
+Example:URL
+
+# http://127.0.0.1:8000/customer_data/
+
+{"id_no":1,
+"name":"Gopal",
+"time":[1,2]
+}
